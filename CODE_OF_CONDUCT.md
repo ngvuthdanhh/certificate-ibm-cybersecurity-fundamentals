@@ -59,5 +59,6 @@ This Code of Conduct is based on the [Contributor Covenant](https://www.contribu
 
 ---
 
-© 2025 ngvtdanhh – Cybersecurity Knowledge Sharing Project.
+© 2025 ngvuthdanhh – Cybersecurity Knowledge Sharing Project.
+
 
