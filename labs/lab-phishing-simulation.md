@@ -15,4 +15,4 @@ Learn to detect phishing emails and simulate defensive measures.
 ## Expected Outcome  
 - Ability to recognize phishing techniques.  
 - Understand reporting & defense workflow.  
-- Apply proactive email security measures.  
+- Apply proactive email security measures
